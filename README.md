@@ -1,7 +1,6 @@
 # Learning-Unity
 
-Getting started with Unity with  https://learn.unity.com/course/getting-started-with-unity?uv=2019.3
+Create with Code Live - Summer 2020 (Tutorial Course)
+https://learn.unity.com/course/create-with-code-live-summer-2020?uv=2018.4
 
-First Project https://connect.unity.com/mg/karting/mad-mike-s-karting
-
-Create with Code Live - Summer 2020: prototype 1: https://connect.unity.com/mg/other/my-new-microgame-75
+prototype 1: https://connect.unity.com/mg/other/my-new-microgame-75
